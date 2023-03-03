@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdnnLibrary", "AdnnLibrary\AdnnLibrary.csproj", "{32F49D02-0AAF-4783-A5BF-9292A2A4AF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F49D02-0AAF-4783-A5BF-9292A2A4AF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F49D02-0AAF-4783-A5BF-9292A2A4AF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F49D02-0AAF-4783-A5BF-9292A2A4AF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F49D02-0AAF-4783-A5BF-9292A2A4AF73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151A8201-0822-48E1-BF74-C83DEBC37619}
+	EndGlobalSection
+EndGlobal
